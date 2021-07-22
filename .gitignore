@@ -1,0 +1,10 @@
+# Logs
+logs
+*.log
+
+# Dependency directories
+node_modules/
+
+# next.js build output
+/package-lock.json
+.DS_Store
